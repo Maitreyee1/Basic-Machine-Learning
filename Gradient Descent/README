@@ -1,0 +1,2 @@
+Implementation of Standard Gradient Descent and Stochastic Gradient Descent using perceptron loss.
+Given dataset : perceptron.data
