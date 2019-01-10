@@ -1,0 +1,2 @@
+Implementation of Decision Trees on UCI Dataset of Poisonous Mushrooms.
+Supervised Learning problem to detect whether a given sample of mushroom is poisonous or non poisonous.
