@@ -31,8 +31,11 @@ Class Distribution: 33.3% for each of 3 classes.
 Python libraries required to be installed prior running the programs:
 
 pandas
+
 sklearn
+
 numpy
+
 matplotlib
 
 Following algorithms are implemented on the dataset
