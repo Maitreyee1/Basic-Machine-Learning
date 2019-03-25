@@ -9,9 +9,12 @@ Attribute Information:
    2. sepal width in cm
    3. petal length in cm
    4. petal width in cm
-   5. class: 
+   5. class:
+   
       -- Iris Setosa
+      
       -- Iris Versicolour
+      
       -- Iris Virginica
 
 Missing Attribute Values: None
@@ -25,10 +28,23 @@ Summary Statistics:
 
 Class Distribution: 33.3% for each of 3 classes.
 
+Python libraries required to be installed prior running the programs:
+
+pandas
+sklearn
+numpy
+matplotlib
+
 Following algorithms are implemented on the dataset
+
 Decision Tree : iris_decision_tree.py
+
 Naive Bayes: iris_Naive_Bayesian.py
+
 Support Vector Machine: iris_SVM.py
+
 Logistic Regression: iris_logistic_regression.py
+
 KMeans: iris_kmeans.py
+
 K-Nearest Neighbor: iris_KNN.py
