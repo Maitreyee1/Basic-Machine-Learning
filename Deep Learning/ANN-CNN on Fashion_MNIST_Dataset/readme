@@ -1,0 +1,4 @@
+This project was made as of Artificial Intelligence Society workshop I conducted as Technical Officer.
+This Deep Learning tutorial focusses on using Artificial Neural Networks and Convolutional Neural Networks to identify Fashion garments from famous Fashion MNIST dataset that contains 60,000 images of various fashion garments.
+The tutorial gives heads up for understanding basic deep learning terms and concepts like Dropout,Activation functions, Convolution Layers, etc.
+Tutorial uses Tensorflow and Keras in Python 3  on Google Colab.
